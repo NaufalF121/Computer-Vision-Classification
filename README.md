@@ -6,4 +6,7 @@
  - for now this model Classify fruits and vegetables but further on it will classify common object
  - Deploy the model for education purpose
 
+train.ipynb : training model
+realtime.ipynb : realtime classification
+
 
